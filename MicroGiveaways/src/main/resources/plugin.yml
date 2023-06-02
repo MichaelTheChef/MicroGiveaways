@@ -1,0 +1,7 @@
+name: MicroGiveaways
+version: '${project.version}'
+main: me.mio.microgiveaways.MicroGiveaways
+api-version: 1.17
+commands:
+  microgiveaway:
+    description: MicroGiveaways, simple giveaways for minecraft servers
